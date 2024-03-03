@@ -1,3 +1,3 @@
 # Git-sync test
 
-Hello, World!!!
+Bye, World!
